@@ -2,7 +2,7 @@
 
 Mini-Max Algorithm:-
 Introduction:
-The minimax algorithm is a widely used approach for creating an artificial 
+The minimax algorithm is a widely used approach for creating an artificial
 intelligence (AI) opponent in games like Tic Tac Toe. This algorithm allows the AI 
 to evaluate all possible moves and choose the optimal one, maximizing its 
 chances of winning or minimizing the opponent's chances. In this short note, 
