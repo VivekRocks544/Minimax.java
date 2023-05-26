@@ -52,6 +52,7 @@ to enter your move choose the numbers betwen 1 to 10 to enter on any grid.
 4 | 5 | 6
 ----------
 7 | 8 | 9
+---------
 
  Have a good day :)
 
