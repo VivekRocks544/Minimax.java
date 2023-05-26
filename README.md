@@ -43,3 +43,18 @@ consideration of game state representation, move generation, and integrating
 it into the game logic. With a well-implemented minimax algorithm, you can 
 enhance the gameplay experience and create a more competitive AI opponent 
 in Tic Tac Toe
+
+To play this game firstly compile and run this code and then you will have a choice to mark first move on the grid or let the ai make the first move .
+to enter your move choose the numbers betwen 1 to 10 to enter on any grid.
+
+1 | 2 | 3
+----------       <= these are the total number of moves and you have to enter the number of the cell where you want to mark your move 
+4 | 5 | 6
+----------
+7 | 8 | 9
+
+
+   Have a good day :)
+
+
+
