@@ -48,13 +48,12 @@ To play this game firstly compile and run this code and then you will have a cho
 to enter your move choose the numbers betwen 1 to 10 to enter on any grid.
 
 1 | 2 | 3
-----------       <= these are the total number of moves and you have to enter the number of the cell where you want to mark your move 
+----------     
 4 | 5 | 6
 ----------
 7 | 8 | 9
 
-
-   Have a good day :)
+ Have a good day :)
 
 
 
